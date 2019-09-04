@@ -6,6 +6,7 @@ Created on Tue Sep  3 15:01:17 2019
 
 Write a Python program to get the Python version you are using.
 """
+
 import sys
 print("Python Version: "+ str(sys.version))
 print("Python Version Info: " + str(sys.version_info))
